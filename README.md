@@ -1,4 +1,4 @@
-# EZ Works Contact Form
+# [🚀 EZ Works Contact Form](https://ez-works-contact-form.vercel.app/)
 This project implements a contact form for EZ Works, designed to collect user email addresses. It was developed as part of a selection process and features validation for email addresses and submission to a backend service.
 
 ## Features
