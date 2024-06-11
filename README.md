@@ -17,7 +17,8 @@ This project implements a contact form for EZ Works, designed to collect user em
 1. Clone the Repository:
 
     ```
-    git clone https://github.com/your-username/ez-works-contact-form
+    git clone https://github.com/Aakarshit07/ez-works-contact-form.git
+    
     cd ez-works-contact-form
     ```
 2. Install Dependencies:
